@@ -1,0 +1,19 @@
+{
+  "name": "jquery-ui-touch-punch",
+  "version": "0.1.1",
+  "description": "Touch Event Support for jQuery UI",
+  "main": "jquery.ui.touch-punch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teambition/jquery-ui-touch-punch.git"
+  },
+  "author": "zensh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teambition/jquery-ui-touch-punch/issues"
+  },
+  "homepage": "https://github.com/teambition/jquery-ui-touch-punch#readme"
+}
